@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "mask",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "Class": null, "phanloai": 0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 106.579062887295322, 16.660357921000127 ], [ 108.05859544340916, 16.618827182582947 ], [ 108.019332595144476, 15.220088213150973 ], [ 106.539800039030467, 15.261618951568153 ], [ 106.579062887295322, 16.660357921000127 ] ] ] ] } }
+]
+}
